@@ -1,0 +1,28 @@
+figure.figsize        : 8., 6.
+figure.dpi            : 100
+figure.subplot.left   : 0.125
+figure.subplot.right  : 0.9
+figure.subplot.bottom : 0.125
+figure.subplot.top    : 0.9
+axes.labelsize        : 30
+axes.titlesize          :    18
+xtick.top             : True
+xtick.bottom          : True
+ytick.left            : True
+ytick.right           : True
+xtick.direction       : in
+ytick.direction       : in
+xtick.labelsize       : 18
+ytick.labelsize       : 18
+xtick.major.pad       :    6.
+xtick.minor.pad       : 6.
+ytick.major.pad       : 6.
+ytick.minor.pad       : 6.
+xtick.major.size      : 6.      # major tick size in points
+xtick.minor.size      : 3.    # minor tick size in points
+ytick.major.size      : 6.      # major tick size in points
+ytick.minor.size      : 3.    # minor tick size in points
+text.usetex           : True
+font.family           : 'serif'
+font.serif            : 'Computer Modern Roman Bold'
+font.size             : 25
